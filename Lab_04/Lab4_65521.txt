@@ -1,0 +1,45 @@
+Q1:
+แบบที่ 1  my code of i is 1
+        my code of i is 2
+
+แบบที่ 2  my code of i is 2
+        my code of i is 1
+
+แบบที่ 3  my code of i is 1
+
+Q2:
+แบบที่ 1  my code of i is 1
+        my code of i is 2
+
+แบบที่ 2  my code of i is 2
+        my code of i is 1
+
+Q3.1: 2 ครั้ง
+
+Q3.2: 1 ครั้ง
+
+Q6: เหมือนกัน
+
+Q7.1: int num_gc = 3;
+
+Q7.2: pidsub = fork();
+
+Q7.3: exit(0);
+
+Q7.4: while(wait(NULL)!=-1)
+
+Q7.5: int num_gc = 4;
+
+Q7.6: if(pidsub == 0)
+
+Q7.7: exit(0);
+
+Q7.8: exit(0);
+
+Q7.9: เพราะ child process มี exit(0) ทุกตัว ดังนั้นมันจบการทำงานอย่างแน่นอนโดยที่ parent process ไม่จำเป็นต้องตรวจสอบ
+
+Q7.10: 18 บรรทัด
+
+Q7.11: 17 ตัว
+
+Q7.12: no เพราะระบบปฏิบัติการจะจัดการเรื่องลำดับของ Process ด้วยตนเอง

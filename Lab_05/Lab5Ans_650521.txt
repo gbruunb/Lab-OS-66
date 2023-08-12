@@ -1,0 +1,14 @@
+1.1 ไม่ทำงาน
+1.2 ทำงาน 1 ครั้ง
+
+2.1 ทำงาน
+2.2 ทำงาน 1 ครั้ง
+2.3 ใส่ exit(0); หลังจาก A
+2.4 นำ printf("can you see this1\n"); /* C */ มาไว้หลังจาก wait(NULL);
+
+3.1 ls: /bin/ls /usr/share/man/man1/ls.1
+3.2 whoami: /usr/bin/whoami /usr/share/man/man1/whoami.1
+3.3 ps: /bin/ps /usr/share/man/man1/ps.1
+3.4 type is a shell builtin
+3.5 cd is a shell builtin
+3.6 ไม่ได้ (ใช้กับ built-in command ไม่ได้)
